@@ -30,7 +30,7 @@ using namespace std;
  
 main() {
 	
-	//Khai b·o variables
+	//Khai b√°o variables
 /* -----------------------------------------------------------------------*/
     int    i, j, k, p, np, op, ranpat[NUMPAT+1], epoch;
     int    NumPattern = NUMPAT, NumInput = NUMIN, NumHidden = NUMHID, NumOutput = NUMOUT;
